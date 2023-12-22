@@ -1,16 +1,19 @@
-# wa_zzap
+# WAzzap
 
-A new Flutter project.
+## Download The App![GitHub All Releases](https://img.shields.io/github/downloads/HusseinMohamed99/WAzzap/total?color=green)
+<a href="https://github.com/HusseinMohamed99/WAzzap/releases/download/v1.0.0/WAzzap.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
-## Getting Started
+# DirectChat: Communicate without Clutter
 
-This project is a starting point for a Flutter application.
+Chat freely with any number, no contact creation is required.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Contactless Chatting: Message any number directly, without saving it to your phone's contacts.
+Essential Messaging Features: Send and receive text messages, images, and more.
+User-Friendly Interface: Simple and intuitive design for effortless navigation.
+Privacy-Focused: No personal information is stored or shared without your consent.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+WAzzap
+:-:
+<image src='https://github.com/HusseinMohamed99/WAzzap/assets/84459939/5411b51a-b8bf-4935-ad4c-67bdf6210554' width=250/><image src='https://github.com/HusseinMohamed99/WAzzap/assets/84459939/5999572c-7090-4845-bbd6-bb63e0ab5e8f' width=250/>
