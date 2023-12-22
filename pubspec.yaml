@@ -1,0 +1,44 @@
+name: wa_zzap
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  country_code_picker: ^3.0.0
+  cupertino_icons: ^1.0.2
+  fl_country_code_picker: ^0.1.9+1
+  flrx_validator: ^0.6.0
+  flutter:
+    sdk: flutter
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.8
+  flutter_screenutil: ^5.9.0
+  google_fonts: ^6.1.0
+  quiver: ^3.2.1
+  url_launcher: ^6.2.2
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+
+
+flutter_assets:
+  assets_path: assets/images/
+  output_path: lib/Core
+  filename: image_assets.dart
+  field_prefix: null
+  
+  flutter_launcher_icons:
+    path: flutter_launcher_icons.yaml
