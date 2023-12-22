@@ -3,7 +3,7 @@
 ## Download The App![GitHub All Releases](https://img.shields.io/github/downloads/HusseinMohamed99/WAzzap/total?color=green)
 <a href="https://github.com/HusseinMohamed99/WAzzap/releases/download/v1.0.0/WAzzap.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 
-# DirectChat: Communicate without Clutter
+# DirectChat: Communicate without Save Number
 
 Chat freely with any number, no contact creation is required.
 
